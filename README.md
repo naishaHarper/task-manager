@@ -1,48 +1,52 @@
 ## task-manager
-A project I'm building to practise programming and improve my problem-solving skills.
-I'm using this project to build my confidence in writing programs from scratch and to get more comfortable turning ideas into working software.
+**A project I'm building to practise programming and improve my problem-solving skills.**
 
-The goal is to create a simple but reliable task management system while strengthening my understanding of programming logic and how different parts of an application work together.
+# Task Manager
 
----
+This project is being developed to strengthen my programming and problem-solving skills through practical software development. 
 
-### Purpose
-
-This project gives me a practical way to apply what I'm learning and improve my problem-solving skills through real development work.
+The goal is to build a reliable and well-structured task management system while developing strong foundations in software design, data handling, and user interaction.
 
 ---
 
-### Planned Features
+## Purpose
 
-- Add new tasks  
-- Edit existing tasks  
-- Delete tasks  
-- Mark tasks as complete  
-- Store task data  
-- Handle user input safely  
+The purpose of this project is to practise building a complete application from the ground up, focusing on writing clean code, handling user input correctly, and organising data in a structured way.
 
 ---
 
-### Skills I'm Developing
+## Key Features
 
-- Programming fundamentals  
-- Problem-solving  
-- Object-oriented programming  
-- Writing clear and organised code  
-- Debugging and testing  
-
----
-
-### Future Improvements
-
-- Add task priorities  
-- Add due dates  
-- Search and filter tasks  
-- Improve error handling  
-- Connect the system to a database  
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- Mark tasks as complete
+- Store task data
+- Handle user input and errors safely
 
 ---
 
-### Status
+## Skills Being Developed
 
-Work in progress — building the system step by step while focusing on strong foundations.
+- Programming fundamentals
+- Problem-solving
+- Object-oriented programming
+- Data handling and storage
+- Writing clean, maintainable code
+- Debugging and testing
+
+---
+
+## Future Improvements
+
+- Add task priorities
+- Add due dates
+- Search and filter tasks
+- Improve error handling
+- Connect to a database
+
+---
+
+## Status
+
+In development — building the system step by step while focusing on strong foundations.
