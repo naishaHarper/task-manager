@@ -1,4 +1,4 @@
-# Task Manager
+## Task Manager
 
 This project is being developed to strengthen my programming and problem-solving skills through practical software development. 
 
@@ -6,13 +6,13 @@ The goal is to build a reliable and well-structured task management system while
 
 ---
 
-## Purpose
+### Purpose
 
 The purpose of this project is to practise building a complete application from the ground up, focusing on writing clean code, handling user input correctly, and organising data in a structured way.
 
 ---
 
-## Key Features
+### Key Features
 
 - Add new tasks
 - Edit existing tasks
@@ -23,7 +23,7 @@ The purpose of this project is to practise building a complete application from 
 
 ---
 
-## Skills Being Developed
+### Skills Being Developed
 
 - Programming fundamentals
 - Problem-solving
@@ -34,7 +34,7 @@ The purpose of this project is to practise building a complete application from 
 
 ---
 
-## Future Improvements
+### Future Improvements
 
 - Add task priorities
 - Add due dates
