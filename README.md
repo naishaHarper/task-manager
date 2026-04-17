@@ -1,7 +1,5 @@
-## task-manager
-**A project I'm building to practise programming and improve my problem-solving skills.**
-
 # Task Manager
+*A project I'm building to practise programming and improve my problem-solving skills.*
 
 This project is being developed to strengthen my programming and problem-solving skills through practical software development. 
 
